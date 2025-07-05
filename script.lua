@@ -1,2 +1,1 @@
-Hello world!
-Did you know what is that?
+print("Injected!")
