@@ -1,7 +1,3 @@
-local ScriptModule = {}
-
-function ScriptModule.run()
-  print("Injected! Require version")
+return function()
+    print("Injected!")
 end
-
-return ScriptModule
